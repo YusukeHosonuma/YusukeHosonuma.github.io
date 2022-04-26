@@ -1,10 +1,9 @@
 # Yusuke Hosonuma ([@tobi462](https://twitter.com/tobi462))
 
+## Table of Contents
+
 - [🔍 Who?](#-who)
 - [🚀 Apps](#-apps)
-  - [SE Browser](#se-browser)
-  - [LifeGame App](#lifegame-app)
-  - [E2DC](#e2dc)
 - [📖 Book](#-book)
 - [🌱 OSS](#-oss)
 - [⚡️ Link](#️-link)
