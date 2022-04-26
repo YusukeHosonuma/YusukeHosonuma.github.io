@@ -2,9 +2,6 @@
 
 - [🔍 Who?](#-who)
 - [🚀 Apps](#-apps)
-  - [SE Browser](#se-browser)
-  - [LifeGame App](#lifegame-app)
-  - [E2DC](#e2dc)
 - [📖 Book](#-book)
 - [🌱 OSS](#-oss)
 - [⚡️ Link](#️-link)
@@ -65,7 +62,7 @@ macOS のメニュー常駐型のアプリで、ドキュメンテーション�
 
 - [Effective SwiftUI 候補（仮説）](https://github.com/YusukeHosonuma/Effective-SwiftUI)
 
-[![Effective SwiftUI 候補（仮説）](https://github-readme-stats.vercel.app/api/pin/?username=YusukeHosonuma&repo=Effective-SwiftUI)](https://github.com/YusukeHosonuma/Effective-SwiftUI))
+[![Effective SwiftUI 候補（仮説）](https://github-readme-stats.vercel.app/api/pin/?username=YusukeHosonuma&repo=Effective-SwiftUI)](https://github.com/YusukeHosonuma/Effective-SwiftUI)
 
 ## 🌱 OSS
 
