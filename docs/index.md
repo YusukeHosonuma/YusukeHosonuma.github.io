@@ -1,9 +1,10 @@
 # Yusuke Hosonuma ([@tobi462](https://twitter.com/tobi462))
 
-## Table of Contents
-
 - [🔍 Who?](#-who)
 - [🚀 Apps](#-apps)
+  - [SE Browser](#se-browser)
+  - [LifeGame App](#lifegame-app)
+  - [E2DC](#e2dc)
 - [📖 Book](#-book)
 - [🌱 OSS](#-oss)
 - [⚡️ Link](#️-link)
@@ -97,6 +98,35 @@ Qiita を中心に技術記事のアウトプットを行っています（最�
 
 - [Speaker Deck](https://speakerdeck.com/yusukehosonuma)
 
+
+## 📝 History
+
+|年月|所属|
+|--|--|
+|2001年4月 - 2004年3月|埼玉県立大宮工業高等学校　電子機械科|
+|2004年4月 - 2018年12月|サクシード株式会社|
+|2010年11月 - 2017年3月|ハイツー株式会社|
+|2017年4月 - 2020年6月|株式会社ディー・エヌ・エー|
+
 ## 💻 Work
 
-T.B.D
+### 2010年11月 - ハイツー株式会社
+
+#### オークションアプリ（iOS）の開発
+- チーム人数: 16名
+- 役割: サブリーダー・開発
+  - 協力会社として開発に参加
+  - iOS改善チーム（5名）においてスクラムマスターも務める
+- 使用技術
+  - Objective-C
+  - Swift
+  - RxSwift
+  - JavaScript
+
+#### 海外旅行アプリ（iOS）の開発
+- チーム人数: 2名
+- 役割： 開発・テスト
+  - iOS7対応
+- 使用技術
+  - Objective-C
+  - HTML/CSS
