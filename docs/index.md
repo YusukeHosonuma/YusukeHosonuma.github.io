@@ -94,7 +94,7 @@ Qiita を中心に技術記事のアウトプットを行っています（最�
 - [Qiita](https://qiita.com/YusukeHosonuma)
 - [Zenn](https://zenn.dev/tobi462)
 
-また、iOSDC や try!Swift、自社主催の勉強会などで登壇実績があります。
+また、iOSDC や try!Swift、自社主催の勉強会などを中心に多数の登壇実績があります。
 
 - [Speaker Deck](https://speakerdeck.com/yusukehosonuma)
 
